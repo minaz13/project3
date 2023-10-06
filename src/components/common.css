@@ -1,0 +1,16 @@
+.main{
+    margin: 10px;
+    padding: 10px;
+    background-color: skyblue;
+    border: 5px solid brown;
+}
+.sub{
+    margin: 5px;
+    padding: 10px;
+    background-color: crimson;
+    color: white;
+    border: 3px solid darkmagenta;
+    border-radius: 20px;
+    width: 350px;
+
+}
